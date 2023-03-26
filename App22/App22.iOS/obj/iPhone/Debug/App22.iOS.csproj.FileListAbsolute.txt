@@ -1,0 +1,13 @@
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\optimized\
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\App22.iOS.csproj.AssemblyReference.cache
+C:\Users\I7\source\repos\App22\App22\App22.iOS\obj\iPhone\Debug\App22.iOS.csproj.CoreCompileInputs.cache
